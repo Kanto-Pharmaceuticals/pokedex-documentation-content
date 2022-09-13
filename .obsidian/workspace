@@ -7,8 +7,12 @@
         "id": "28aa077f34594c48",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Testing/hello-world.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Testing/hello-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Testing/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Testing/hello-world.md"
+              }
             }
           }
         ]
@@ -122,8 +130,8 @@
   },
   "active": "28aa077f34594c48",
   "lastOpenFiles": [
-    "Testing/hello-world.md",
     "README.md",
+    "Testing/hello-world.md",
     "Home.md"
   ]
 }

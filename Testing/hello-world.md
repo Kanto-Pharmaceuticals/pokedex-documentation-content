@@ -4,11 +4,7 @@ date: 2022-07-07T01:35:54.00-04:00
 modified: 2022-07-11T20:57:25.23-04:00
 description: "Hello World test page."
 tags: 
-- rambling 
 - test
-status: in-progress
----
-
 ---
 
 This is my first post on my new fake blog! How exciting!
